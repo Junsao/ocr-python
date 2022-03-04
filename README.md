@@ -10,3 +10,4 @@ Learn python test and git commti my work
 delete
 
 git rm -r --cached '文件'
+重新提交一遍即可...
